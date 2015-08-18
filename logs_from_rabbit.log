@@ -1,0 +1,24 @@
+PHP Deprecated:  Function AMQPExchange::declare() is deprecated in /Library/WebServer/www/rabbitmq-demo/receive_logs.php on line 15
+PHP Stack trace:
+PHP   1. {main}() /Library/WebServer/www/rabbitmq-demo/receive_logs.php:0
+
+Deprecated: Function AMQPExchange::declare() is deprecated in /Library/WebServer/www/rabbitmq-demo/receive_logs.php on line 15
+
+Call Stack:
+    0.0004     237184   1. {main}() /Library/WebServer/www/rabbitmq-demo/receive_logs.php:0
+
+PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /Library/WebServer/www/rabbitmq-demo/receive_logs.php on line 18
+PHP Stack trace:
+PHP   1. {main}() /Library/WebServer/www/rabbitmq-demo/receive_logs.php:0
+
+Deprecated: Function AMQPQueue::declare() is deprecated in /Library/WebServer/www/rabbitmq-demo/receive_logs.php on line 18
+
+Call Stack:
+    0.0004     237184   1. {main}() /Library/WebServer/www/rabbitmq-demo/receive_logs.php:0
+
+[*] Waiting for messages. To exit press CTRL+C
+2015-08-18 11:13:48 [x] Received: logTest.
+2015-08-18 11:13:54 [x] Received: logTest.
+2015-08-18 11:13:56 [x] Received: logTest...
+2015-08-18 11:13:58 [x] Received: logTest......
+2015-08-18 11:16:42 [x] Received: logTest.......
